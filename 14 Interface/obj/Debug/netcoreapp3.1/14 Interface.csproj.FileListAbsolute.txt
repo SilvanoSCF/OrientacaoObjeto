@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\bin\Debug\netcoreapp3.1\14 Interface.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\bin\Debug\netcoreapp3.1\14 Interface.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\bin\Debug\netcoreapp3.1\14 Interface.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\bin\Debug\netcoreapp3.1\14 Interface.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\bin\Debug\netcoreapp3.1\14 Interface.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\bin\Debug\netcoreapp3.1\14 Interface.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\14 Interface\obj\Debug\netcoreapp3.1\14 Interface.genruntimeconfig.cache

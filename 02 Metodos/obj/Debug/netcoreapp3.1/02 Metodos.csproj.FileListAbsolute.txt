@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\bin\Debug\netcoreapp3.1\02 Metodos.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\bin\Debug\netcoreapp3.1\02 Metodos.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\bin\Debug\netcoreapp3.1\02 Metodos.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\bin\Debug\netcoreapp3.1\02 Metodos.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\bin\Debug\netcoreapp3.1\02 Metodos.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\bin\Debug\netcoreapp3.1\02 Metodos.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\02 Metodos\obj\Debug\netcoreapp3.1\02 Metodos.genruntimeconfig.cache

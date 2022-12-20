@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\bin\Debug\netcoreapp3.1\10 Heranca.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\bin\Debug\netcoreapp3.1\10 Heranca.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\bin\Debug\netcoreapp3.1\10 Heranca.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\bin\Debug\netcoreapp3.1\10 Heranca.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\bin\Debug\netcoreapp3.1\10 Heranca.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\bin\Debug\netcoreapp3.1\10 Heranca.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\10 Heranca\obj\Debug\netcoreapp3.1\10 Heranca.genruntimeconfig.cache

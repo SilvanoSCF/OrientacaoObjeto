@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\bin\Debug\netcoreapp3.1\01 Conceitos.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\bin\Debug\netcoreapp3.1\01 Conceitos.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\bin\Debug\netcoreapp3.1\01 Conceitos.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\bin\Debug\netcoreapp3.1\01 Conceitos.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\bin\Debug\netcoreapp3.1\01 Conceitos.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\bin\Debug\netcoreapp3.1\01 Conceitos.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\01 Conceitos\obj\Debug\netcoreapp3.1\01 Conceitos.genruntimeconfig.cache

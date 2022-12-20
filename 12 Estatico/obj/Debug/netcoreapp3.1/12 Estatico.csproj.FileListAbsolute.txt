@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\bin\Debug\netcoreapp3.1\12 Estatico.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\bin\Debug\netcoreapp3.1\12 Estatico.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\bin\Debug\netcoreapp3.1\12 Estatico.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\bin\Debug\netcoreapp3.1\12 Estatico.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\bin\Debug\netcoreapp3.1\12 Estatico.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\bin\Debug\netcoreapp3.1\12 Estatico.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\12 Estatico\obj\Debug\netcoreapp3.1\12 Estatico.genruntimeconfig.cache

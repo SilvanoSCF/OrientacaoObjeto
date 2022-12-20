@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\bin\Debug\netcoreapp3.1\04 ExercicioIMC.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\bin\Debug\netcoreapp3.1\04 ExercicioIMC.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\bin\Debug\netcoreapp3.1\04 ExercicioIMC.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\bin\Debug\netcoreapp3.1\04 ExercicioIMC.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\bin\Debug\netcoreapp3.1\04 ExercicioIMC.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\bin\Debug\netcoreapp3.1\04 ExercicioIMC.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\04 ExercicioIMC\obj\Debug\netcoreapp3.1\04 ExercicioIMC.genruntimeconfig.cache

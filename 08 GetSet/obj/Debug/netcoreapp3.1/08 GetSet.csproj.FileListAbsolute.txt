@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\bin\Debug\netcoreapp3.1\08 GetSet.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\bin\Debug\netcoreapp3.1\08 GetSet.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\bin\Debug\netcoreapp3.1\08 GetSet.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\bin\Debug\netcoreapp3.1\08 GetSet.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\bin\Debug\netcoreapp3.1\08 GetSet.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\bin\Debug\netcoreapp3.1\08 GetSet.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\08 GetSet\obj\Debug\netcoreapp3.1\08 GetSet.genruntimeconfig.cache

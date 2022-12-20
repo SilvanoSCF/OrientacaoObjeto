@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\bin\Debug\netcoreapp3.1\09 This.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\bin\Debug\netcoreapp3.1\09 This.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\bin\Debug\netcoreapp3.1\09 This.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\bin\Debug\netcoreapp3.1\09 This.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\bin\Debug\netcoreapp3.1\09 This.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\bin\Debug\netcoreapp3.1\09 This.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\09 This\obj\Debug\netcoreapp3.1\09 This.genruntimeconfig.cache

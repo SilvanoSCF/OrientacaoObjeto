@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\bin\Debug\netcoreapp3.1\06 Encapsulamento.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\bin\Debug\netcoreapp3.1\06 Encapsulamento.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\bin\Debug\netcoreapp3.1\06 Encapsulamento.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\bin\Debug\netcoreapp3.1\06 Encapsulamento.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\bin\Debug\netcoreapp3.1\06 Encapsulamento.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\bin\Debug\netcoreapp3.1\06 Encapsulamento.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\06 Encapsulamento\obj\Debug\netcoreapp3.1\06 Encapsulamento.genruntimeconfig.cache

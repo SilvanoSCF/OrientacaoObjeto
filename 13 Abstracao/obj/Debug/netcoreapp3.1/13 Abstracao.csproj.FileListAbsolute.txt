@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\bin\Debug\netcoreapp3.1\13 Abstracao.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\bin\Debug\netcoreapp3.1\13 Abstracao.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\bin\Debug\netcoreapp3.1\13 Abstracao.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\bin\Debug\netcoreapp3.1\13 Abstracao.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\bin\Debug\netcoreapp3.1\13 Abstracao.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\bin\Debug\netcoreapp3.1\13 Abstracao.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\13 Abstracao\obj\Debug\netcoreapp3.1\13 Abstracao.genruntimeconfig.cache

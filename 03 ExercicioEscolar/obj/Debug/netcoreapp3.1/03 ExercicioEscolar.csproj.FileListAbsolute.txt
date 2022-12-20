@@ -1,0 +1,13 @@
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.csprojAssemblyReference.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.AssemblyInfo.cs
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\bin\Debug\netcoreapp3.1\03 ExercicioEscolar.exe
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\bin\Debug\netcoreapp3.1\03 ExercicioEscolar.deps.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\bin\Debug\netcoreapp3.1\03 ExercicioEscolar.runtimeconfig.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\bin\Debug\netcoreapp3.1\03 ExercicioEscolar.runtimeconfig.dev.json
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\bin\Debug\netcoreapp3.1\03 ExercicioEscolar.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\bin\Debug\netcoreapp3.1\03 ExercicioEscolar.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.dll
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.pdb
+C:\Users\Silvano\Documents\_Desenvolvimento\Orientação a Objetos\03 ExercicioEscolar\obj\Debug\netcoreapp3.1\03 ExercicioEscolar.genruntimeconfig.cache
